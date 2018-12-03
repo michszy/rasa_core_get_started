@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/arkeup/promoIA/quickstart_rasa_core/models/current/nlu/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/arkeup/promoIA/quickstart_rasa_core/models/current/nlu/intent_classifier_tensorflow_embedding.ckpt"
